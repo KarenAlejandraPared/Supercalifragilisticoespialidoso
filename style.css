@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f4f4f4;
+}
+h1 {
+  color: #333;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav li {
+  display: inline;
+  margin-right: 15px;
+}
+section {
+  margin-top: 30px;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+}
+input {
+  padding: 8px;
+  width: 300px;
+  margin-bottom: 20px;
+}
