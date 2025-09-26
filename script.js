@@ -7,7 +7,7 @@ fetch('libros.json')
       "Psicología": document.getElementById("psicologia"),
       "Literatura Juvenil": document.getElementById("literatura"),
       "Metodología": document.getElementById("metodologia")
-      "Filosofía": document.getElementById("metodologia")
+      "Filosofía": document.getElementById("Filosofía")
     };
 
     libros.forEach(libro => {
