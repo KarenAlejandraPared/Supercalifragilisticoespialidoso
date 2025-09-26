@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Introducción al Derecho",
+    "autor": "María López",
+    "categoria": "Derecho",
+    "formato": "PDF",
+    "enlace": "libros/introduccion-derecho.pdf"
+  },
+  {
+    "titulo": "Pedagogía Moderna",
+    "autor": "Ana Torres",
+    "categoria": "Educación",
+    "formato": "EPUB",
+    "enlace": "libros/pedagogia-moderna.epub"
+  }
+]
