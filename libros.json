@@ -14,3 +14,10 @@
     "enlace": "libros/pedagogia-moderna.epub"
   }
 ]
+[{
+  "titulo": "Psicología del Aprendizaje",
+  "autor": "Carlos Méndez",
+  "categoria": "Psicología",
+  "formato": "PDF",
+  "enlace": "libros/psicologia-aprendizaje.pdf"
+}]
