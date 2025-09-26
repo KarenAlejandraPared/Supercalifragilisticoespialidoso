@@ -13,7 +13,15 @@
     "formato": "EPUB",
     "enlace": "libros/pedagogia-moderna.epub"
   }
-]
+] 
+[{
+  "titulo": "Derecho Penal - Parte Especial - Tomo I - 2000",
+  "autor": "Buompadre",
+  "categoria": "Derecho",
+  "formato": "PDF",
+  "enlace": "libros/buompadre-derecho-penal.pdf"
+}
+] 
 [{
   "titulo": "Psicología del Aprendizaje",
   "autor": "Carlos Méndez",
